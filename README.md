@@ -1,4 +1,6 @@
 ### Hi there, I'm [Henrique](https://thehenry.dev) 👋
+---
+
 <a href="https://www.linkedin.com/in/henry-ns/">
   <img height="24" src="./assets/social/linkedin.svg" />
 </a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -12,9 +14,12 @@
   <img height="24" src="./assets/social/mail.svg" />
 </a>&nbsp;&nbsp;&nbsp;&nbsp;
 
+&nbsp;
 
-- 🔭 I'm currently working on Owlify system, more details soon :eyes:...
-- 🌱 I'm currently learning about animation and optimizing performance on React Native
+I'm a full-stack developer focus on React ecosystem ⚛️.
+
+- 🔭 I'm currently working on my **undergrad thesis** ₍ₕₑₗₚ₎
+- 🌱 I'm currently learning about **animation and optimizing performance on React Native**
 - 💬 Ask me about anything [here](https://github.com/henry-ns/henry-ns/issues)
 
 #### :building_construction: Languages and Tools:
