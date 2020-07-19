@@ -16,8 +16,6 @@
 
 &nbsp;
 
-I'm a full-stack developer focus on React ecosystem ⚛️.
-
 - 🔭 I'm currently working on my **undergrad thesis** ₍ₕₑₗₚ₎
 - 🌱 I'm currently learning about **animation and optimizing performance on React Native**
 - 💬 Ask me about anything [here](https://github.com/henry-ns/henry-ns/issues)
