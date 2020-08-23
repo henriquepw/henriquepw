@@ -18,7 +18,7 @@
 
 - 🔭 I'm currently working on my **undergrad thesis** ₍ₕₑₗₚ₎
 - 🌱 I'm currently learning about **Vue.js**
-- 💬 Ask me about anything on Twitter
+- 💬 Ask me about anything on [Twitter](https://twitter.com/_henry_ns)
 
 #### :building_construction: Languages and Tools:
 <img height="24" src="https://raw.githubusercontent.com/henry-ns/henry-ns/master/assets/techs/typescript.svg" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
