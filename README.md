@@ -1,4 +1,4 @@
-### Hi there, I'm [Henrique](https://thehenry.dev) 👋
+### Hi there, I'm [Henrique](https://henrique.pw) 👋
 ---
 
 > ⚠️ My main job uses GitLab, so I don't have time to contribute here.
